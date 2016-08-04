@@ -59,7 +59,6 @@ def main():
     is_triangle(6,2,3)
 
     check_stick_lengths()
-    print("Hello World!")
 
 
 

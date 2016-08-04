@@ -56,7 +56,6 @@ def main():
     """
     do_four(print_twice,'spam')
 
-    print("Hello World!")
 
 
 

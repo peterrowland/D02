@@ -53,7 +53,6 @@ def main():
     """
     check_fermat_ints()
 
-    print("Hello World!")
 
 
 
